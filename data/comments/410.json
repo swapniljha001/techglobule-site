@@ -1,0 +1,23 @@
+[
+  {
+    "id": "75",
+    "parent": "0",
+    "author": "How to Flash a Recovery with PhilZ Touch &#8211; TechGlobule",
+    "date": "2015-05-07 19:00:48",
+    "content": "[&#8230;] we are going to tell you how to flash a custom recovery in any Android device with Philz Touch. Porting a Custom recovery is just a step ahead of this. It helps in getting more control on your Android [&#8230;]"
+  },
+  {
+    "id": "76",
+    "parent": "0",
+    "author": "How to Reset a device: Advanced User &#8211; TechGlobule",
+    "date": "2015-05-19 19:00:54",
+    "content": "[&#8230;] Recovery is a limited boot (startup) mode, independent of your normal Android operating system. In a recovery, you can back up, restore, install packages, wipe data, and do some troubleshooting of your Android device . The set of features available depends on the specific recovery installed. Generally, stock recoveries (which come pre-installed on your device) are the most limited. They typically only allow manufacturer updates to be performed and remain mostly invisible to the end-user. Rooted Android devices can change their Recovery. [&#8230;]"
+  },
+  {
+    "id": "77",
+    "parent": "0",
+    "author": "How to Un-Brick your Device? &#8211; TechGlobule",
+    "date": "2015-05-21 16:02:16",
+    "content": "[&#8230;] smart phone can get bricked while Rooting it, or flashing a Custom ROM, or porting a Custom Recovery in it. It is a problem which can be faced by any person by accidental deletion [&#8230;]"
+  }
+]

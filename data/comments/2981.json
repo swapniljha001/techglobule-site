@@ -1,0 +1,30 @@
+[
+  {
+    "id": "342",
+    "parent": "0",
+    "author": "Bhubnesh Kumar",
+    "date": "2019-01-21 22:38:30",
+    "content": "Very nice"
+  },
+  {
+    "id": "343",
+    "parent": "0",
+    "author": "Kurta For Women Online",
+    "date": "2019-02-12 12:23:43",
+    "content": "That is an extremely smart written article. I will be sure to bookmark it and return to learn extra of your useful information. Thank you for the post. I will certainly return."
+  },
+  {
+    "id": "344",
+    "parent": "342",
+    "author": "Swapnil Jha",
+    "date": "2019-02-19 19:20:28",
+    "content": "Thank you <strong>Bhubnesh</strong>."
+  },
+  {
+    "id": "345",
+    "parent": "343",
+    "author": "Swapnil Jha",
+    "date": "2019-02-19 19:24:34",
+    "content": "Read our other articles as well."
+  }
+]

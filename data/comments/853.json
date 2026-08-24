@@ -1,0 +1,576 @@
+[
+  {
+    "id": "131",
+    "parent": "0",
+    "author": "Sunil",
+    "date": "2015-09-17 00:31:55",
+    "content": "I am not able to do it as it says BROM ERROR- S_CHIP_TYPE_NOT_MATCH (3168)"
+  },
+  {
+    "id": "132",
+    "parent": "131",
+    "author": "Swapnil Jha",
+    "date": "2015-09-17 08:59:31",
+    "content": "It would be more convenient for us to help you, if you could tell at which step/stage did this error occurred."
+  },
+  {
+    "id": "133",
+    "parent": "0",
+    "author": "Chetan Kulkarni",
+    "date": "2015-10-05 01:06:24",
+    "content": "You are changing you from so the ROM must be flashed using firmware upgrade while you are saying  press download please  correct it."
+  },
+  {
+    "id": "134",
+    "parent": "0",
+    "author": "prakash",
+    "date": "2015-10-25 07:55:24",
+    "content": "I am not able to connect MT65xx preloader."
+  },
+  {
+    "id": "135",
+    "parent": "134",
+    "author": "Swapnil Jha",
+    "date": "2015-10-29 17:17:46",
+    "content": "I would suggest a fresh restart of prescribed method."
+  },
+  {
+    "id": "136",
+    "parent": "0",
+    "author": "Harry Chand",
+    "date": "2015-11-26 21:30:05",
+    "content": "My phone is Canvas-2-Colours Kitkat is this Cyanogen work in it... Please help"
+  },
+  {
+    "id": "137",
+    "parent": "0",
+    "author": "Harry chand",
+    "date": "2015-11-27 00:27:04",
+    "content": "Hey .. This is write ROM n firm CM12 is 258 MB n Kitkat Rainbow is 484 MB can I download it?"
+  },
+  {
+    "id": "138",
+    "parent": "0",
+    "author": "Sudheesh",
+    "date": "2015-11-28 04:49:58",
+    "content": "Hi... Can I install it in Micromax C2C? Will Call options and GPS work?"
+  },
+  {
+    "id": "139",
+    "parent": "137",
+    "author": "Swapnil Jha",
+    "date": "2015-11-28 11:31:53",
+    "content": "No, it supports Wiko base only, but you surely can give it a try, and share the results with us."
+  },
+  {
+    "id": "140",
+    "parent": "131",
+    "author": "Arjun",
+    "date": "2015-12-01 21:56:36",
+    "content": "I want full video."
+  },
+  {
+    "id": "141",
+    "parent": "140",
+    "author": "Swapnil Jha",
+    "date": "2015-12-01 22:55:50",
+    "content": "That would be a great idea. But the site is not being updated for a stretched period of time, as all bloggers are studying for upcoming exams."
+  },
+  {
+    "id": "142",
+    "parent": "0",
+    "author": "Karthik TK",
+    "date": "2015-12-02 10:24:59",
+    "content": "Will this work if I have the FOTA Kitkat?"
+  },
+  {
+    "id": "143",
+    "parent": "142",
+    "author": "Swapnil Jha",
+    "date": "2015-12-02 11:43:30",
+    "content": "No, it might not work."
+  },
+  {
+    "id": "144",
+    "parent": "0",
+    "author": "Vikram",
+    "date": "2015-12-05 19:23:31",
+    "content": "My phone is Micromax A120 4GB variant which I updated to Kitkat from Jellybean. Can I follow these steps to update to Lollipop? And my phone is showing encryption unsuccesful. Can I still update it?"
+  },
+  {
+    "id": "145",
+    "parent": "0",
+    "author": "Jayant",
+    "date": "2015-12-05 20:21:32",
+    "content": "My phone is Canvas 2 A110 can I use your article for this specific purpose?"
+  },
+  {
+    "id": "146",
+    "parent": "136",
+    "author": "Siddhant Baranwal",
+    "date": "2015-12-06 08:32:05",
+    "content": "Harry, you need a Wiko base ROM for this CyanogenMod 12 . This is the basic step for CM.<br />\nMoreover please specify your build ID.<br />\nWiko base ROM should be flashed using SP Flash Tools.\n"
+  },
+  {
+    "id": "147",
+    "parent": "144",
+    "author": "Siddhant Baranwal",
+    "date": "2015-12-06 08:33:56",
+    "content": "No, you can't start these steps before switching to Wiko base.\nAs all development of your device has shifted to Wiko Rainbow (clone)."
+  },
+  {
+    "id": "148",
+    "parent": "145",
+    "author": "Siddhant Baranwal",
+    "date": "2015-12-06 10:56:01",
+    "content": "Yes you can but be sure what you're doing with your device and good luck ?"
+  },
+  {
+    "id": "149",
+    "parent": "0",
+    "author": "Karthik TK",
+    "date": "2015-12-07 17:04:12",
+    "content": "I have a coupe of doubts (I've never rooted a phone before):\n&gt;I flashed the Wiko Flashable Kitkat v11 but the recovery mode is the stock one only (Where I can't choose CM 12.1 from the SD card)\n&gt;I flashed the above ROM with a scatter file which had a different name (It was in the ROM folder of the Flashable kitkat folder)."
+  },
+  {
+    "id": "150",
+    "parent": "149",
+    "author": "Karthik TK",
+    "date": "2015-12-07 19:16:35",
+    "content": "Sorry for the trouble. I solved the above problem by changing the Recovery file to PhilZ Recovery but now I have another problem: I have CM 12 with Android 5.0.2"
+  },
+  {
+    "id": "151",
+    "parent": "150",
+    "author": "Swapnil Jha",
+    "date": "2015-12-07 19:34:07",
+    "content": "Glad to hear that you solved the previous problem <b>Karthik</b>.\nI got no clue how you landed on Android 5.0.2 instead of 5.1.1. So I can't help you on that.\nDon't get disappointed you've almost all the features you would expect in 5.1.1."
+  },
+  {
+    "id": "152",
+    "parent": "151",
+    "author": "Karthik TK",
+    "date": "2015-12-07 20:11:26",
+    "content": "Thanks a lot for the reply!"
+  },
+  {
+    "id": "153",
+    "parent": "152",
+    "author": "Karthik TK",
+    "date": "2015-12-07 21:39:36",
+    "content": "Got it! I downloaded a pretty old build of CM 12.1 which was still being developed. Got the new one (20151101) and repeated the process and it worked!\nThanks!!"
+  },
+  {
+    "id": "154",
+    "parent": "153",
+    "author": "Swapnil Jha",
+    "date": "2015-12-07 23:44:24",
+    "content": "If this really is your first time with rooting a device. Then you are doing a way better job than average people out there. Keep it up <strong>Karthik</strong>."
+  },
+  {
+    "id": "155",
+    "parent": "152",
+    "author": "Swapnil Jha",
+    "date": "2015-12-07 23:45:44",
+    "content": "xD We are always here to help and learn."
+  },
+  {
+    "id": "156",
+    "parent": "147",
+    "author": "Vikram",
+    "date": "2015-12-08 13:15:23",
+    "content": "How should I switch to Wiko base? My phone was boot looping before and now it's not switching on. It's because I tried to flash using SP Flashing Tool and all."
+  },
+  {
+    "id": "157",
+    "parent": "156",
+    "author": "Siddhant Baranwal",
+    "date": "2015-12-11 17:17:32",
+    "content": "First, go to <a href=\"http://techglobule.com/2015/05/unbrick\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Unbrick Section</a>. And Download this file from <a href=\"http://support.wikomobile.com/maj/RAINBOW_KITKAT_V11.zip\" target=\"_blank\" rel=\"nofollow noopener noreferrer ugc\">XDA</a> and follow the steps in Unbrick Section. You'll eventually land on Android Lollipop."
+  },
+  {
+    "id": "158",
+    "parent": "138",
+    "author": "Siddhant Baranwal",
+    "date": "2015-12-11 17:25:26",
+    "content": "Yeah, those features will definitely work."
+  },
+  {
+    "id": "159",
+    "parent": "133",
+    "author": "Siddhant Baranwal",
+    "date": "2015-12-11 17:26:29",
+    "content": "That doesn't make much difference to the process."
+  },
+  {
+    "id": "160",
+    "parent": "157",
+    "author": "Vikram",
+    "date": "2015-12-12 18:38:07",
+    "content": "The link you have given is a dead end. I followed all the steps mentioned in http://techglobule.com/2015/05/unbrick/ when i connected my phone and clicked download, it loaded for some 15 seconds and then showed BROM ERROR: NO SPACE. What to do?"
+  },
+  {
+    "id": "161",
+    "parent": "0",
+    "author": "Bharadwaj",
+    "date": "2015-12-15 20:35:10",
+    "content": "I have some issues while flashing via SP Flashing Tool. It prompts me an error saying \"PTM changed, Need to download it\". So, kindly provide me the version of SP Flashing Tool and ADB drivers. And also it will be helpful if you provide me the tutorial video to update Micromax C2C to Android 5.1.1 Lollipop via CyanogenMod 12.1 Custom Firmware.\nThanks,\nAm waiting for your response."
+  },
+  {
+    "id": "162",
+    "parent": "161",
+    "author": "Siddhant Baranwal",
+    "date": "2015-12-15 21:52:49",
+    "content": "Please specify some more details, for e.g. firmware version etc.\nVideo Tutorial will be a great idea. But the site is not being updated properly, as all bloggers are busy studying."
+  },
+  {
+    "id": "163",
+    "parent": "160",
+    "author": "Siddhant Baranwal",
+    "date": "2015-12-15 21:55:48",
+    "content": "Sorry for that dead link, it was an HTML error, it has been repaired now.\nDid you try formatting?\nIf possible, make a full backup, I repeat, make a full backup i.e. ROM, IMEI, etc."
+  },
+  {
+    "id": "164",
+    "parent": "162",
+    "author": "Bharadwaj",
+    "date": "2015-12-18 19:49:44",
+    "content": "<strong>Siddhant</strong>,\nCan you please tell me, what all the details you require, so that I can update."
+  },
+  {
+    "id": "165",
+    "parent": "164",
+    "author": "Siddhant Baranwal",
+    "date": "2016-01-02 16:37:55",
+    "content": "Just give me the screenshot of About Phone from Settings > About Phone.\nSo flash tool version\nScatter file\nOr you can try download instead of firmware upgrade"
+  },
+  {
+    "id": "166",
+    "parent": "165",
+    "author": "Chandan Bharadwaj",
+    "date": "2016-01-04 19:54:04",
+    "content": "Hi Siddhant,\nThe details are listed below.\n&gt; Model number : Micromax A120 (4gb)\n&gt;Android Version : 4.4.2\n&gt;Baseband Version : OLY.WR8.W1315.MD.WG.MP.V34,2014/05/15 19:54\n&gt; Kernal Version : 3.4.67 develop@sw2-Server #1 Wed Jun 4 17:10:12 CST 2014\n&gt;Build number : ALPS.KK1.MP1.V2.10\n&gt;Custom build Version : S5501BP_MP_MMX_IN_06\n&gt;SP Flashing Tool Version : V5.1436.00\n&gt;Scatter file : MT6582_Android_scatter\nKindly tell me how to Update Micromax C2C to Android 5.1.1 Lollipop via CyanogenMod 12.1 Custom Firmware.\nRegards\nChandan Bharadwaj"
+  },
+  {
+    "id": "167",
+    "parent": "166",
+    "author": "Swapnil Jha",
+    "date": "2016-01-09 16:10:23",
+    "content": "http://firmwarefile.com/micromax-a120\ndownload this file (v1) you will find a perfect SP flash tool for your device.\nthen download this firmware\nhttps://www.androidfilehost.com/?fid=24269982087019082\nuse sp flash tool to flash this firmware\nthat's all for android 5\ni simplified the steps for you :)\nenjoy please consider a like on our fb page"
+  },
+  {
+    "id": "168",
+    "parent": "0",
+    "author": "Chandan Bharadwaj",
+    "date": "2016-01-16 10:36:12",
+    "content": "Hi Guys,\nIt works. Thanks a lot. But once it's upgraded to Lollipop my battery is draining fast. Can you please suggest resolution for this.\nAm waiting for your reply. :)"
+  },
+  {
+    "id": "169",
+    "parent": "168",
+    "author": "Swapnil Jha",
+    "date": "2016-01-18 20:47:45",
+    "content": "If the battery problem is serious, I would suggest to roll back to previous OS.\nOtherwise, make a backup of important media files, and try reset your device. A fresh start usually rectifies such battery issues."
+  },
+  {
+    "id": "170",
+    "parent": "169",
+    "author": "Chandan Bharadwaj",
+    "date": "2016-01-20 17:29:31",
+    "content": "Hi <strong>Swapnil</strong>,\nI tried reset the mobile, but battery draining issue is not yet rectified.\nCan you please tell me how to roll back the OS and also please provide me the link to download official Micromax canvas 2 colours A120 (4GB) ROM.\nWaiting for your reply..."
+  },
+  {
+    "id": "171",
+    "parent": "0",
+    "author": "Mr.Grewal",
+    "date": "2016-01-21 18:47:23",
+    "content": "I want expand RAM?? suggest me if possible..."
+  },
+  {
+    "id": "172",
+    "parent": "170",
+    "author": "Swapnil Jha",
+    "date": "2016-01-22 21:23:47",
+    "content": "First, try this, go to <a href=\"http://techglobule.com/2015/05/unbrick/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Unbrick Section</a>. And Download this file from <a href=\"http://support.wikomobile.com/maj/RAINBOW_KITKAT_V11.zip\" target=\"_blank\" rel=\"nofollow noopener noreferrer ugc\">XDA</a> and follow the steps in Unbrick Section."
+  },
+  {
+    "id": "173",
+    "parent": "171",
+    "author": "Swapnil Jha",
+    "date": "2016-01-22 21:29:07",
+    "content": "Yes,\nMethod 1 - Root your device, use a class 4 or above, 4GB or above memory card, and use <a href=\"https://play.google.com/store/apps/details?id=com.swapit.expander.de\" target=\"_blank\" rel=\"nofollow noopener noreferrer ugc\">Roehsoft RAM Expander</a> to increase your RAM. It works the same way as Ready Boost for a Windows PC. Less efficient. I suggest Method 2.\nMethod 2 - Buy a new phone with more RAM. Can be as much as 200% effective."
+  },
+  {
+    "id": "174",
+    "parent": "0",
+    "author": "Gaurav Soni",
+    "date": "2016-01-27 00:15:43",
+    "content": "Guys please help me.\nI need help actualy am using micromax a120 and flash philz recovery but when I reboot the device the device is not starting just reboot itself after micromax then I try to get in recovery mode by pressing lock button + vol. up + vol. down it shows me no command  what can I do now? Guys please help me asap"
+  },
+  {
+    "id": "175",
+    "parent": "174",
+    "author": "Swapnil Jha",
+    "date": "2016-01-28 20:34:17",
+    "content": "Your device is probably bricked. Check our <strong><a href=\"http://techglobule.com/2015/05/unbrick/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Unbrick section</a></strong>."
+  },
+  {
+    "id": "176",
+    "parent": "0",
+    "author": "Vaisakh KV",
+    "date": "2016-01-30 17:45:57",
+    "content": "My phone is Micromax A120 4GB variant which I updated to Kitkat 4.4.2 from Jellybean Through FOTA.\nCan I use these steps?\nFrom where I can download Wiko base ROM you mentioned above?"
+  },
+  {
+    "id": "177",
+    "parent": "176",
+    "author": "Swapnil Jha",
+    "date": "2016-02-02 18:15:21",
+    "content": "No, you can't use these steps directly. First flash this <a href=\"http://support.wikomobile.com/maj/RAINBOW_KITKAT_V11.zip\" target=\"_blank\" rel=\"nofollow noopener noreferrer ugc\">Wiko ROM</a>."
+  },
+  {
+    "id": "178",
+    "parent": "177",
+    "author": "Vaisakh KV",
+    "date": "2016-02-02 22:04:35",
+    "content": "Details of my mobile are...\n<blockquote>\n  Model number : Micromax A120 (4gb)\n  Android Version : 4.4.2 (updated via FOTA)\n  Baseband Version : MOLY.WR8.W1315.MD.WG.MP.V34,2014/05/15 19:54\n  Kernel Version : 3.4.67 develop@sw2-Server #1 Thu Aug 21 17:05:43 CST 2014\n  Build number : ALPS.KK1.MP1.V2.10\n  Custom build Version : S5501BP_MP_MMX_IN_10\n</blockquote>\nCan i use the 2 links that you suggested to <strong>Chandan Bharadwaj</strong> on Jan 9 2016"
+  },
+  {
+    "id": "179",
+    "parent": "178",
+    "author": "Swapnil Jha",
+    "date": "2016-02-03 19:50:02",
+    "content": "Yeah <strong>Vaisakh</strong>, you can surely use that comment/link. Actually, we gave you the link of the same ROM, we gave to him."
+  },
+  {
+    "id": "180",
+    "parent": "0",
+    "author": "Vaisakh KV",
+    "date": "2016-02-07 11:29:05",
+    "content": "EMERGENCY I NEED HELP,,\ni have downloaded the sp tool firmware from the two links and done\nflashing successfully ...\nthen i downloaded cm-12.1-20160107-unofficially-rainbow.zip   and\nplaced on my sd card . then entered recovery mode    during installing\nerror occured..\nand shows\nThis package is for device: rainbow; this device is s5501.\nE:Error in/sdcard/ cm-12.1-20160107-unofficially-rainbow.zip\n(Status 7)\nInstallation aborded.\nthen i repeated installation  with\ncm-12-20150610\nbut the result was samesame\nWhat will I do now ??\nCan you give me a supporting zip file??\nWith hope...."
+  },
+  {
+    "id": "181",
+    "parent": "180",
+    "author": "Swapnil Jha",
+    "date": "2016-02-09 20:48:40",
+    "content": "Open the .zip file with WinRAR.\nSearch and open the updaterscript with Notepad.\nSet the RO Build Product/ID to s5501.\nAnd save it. The .zip file will get updated. And then repeat the process. You're welcome."
+  },
+  {
+    "id": "182",
+    "parent": "0",
+    "author": "Rakesh",
+    "date": "2016-02-15 22:56:08",
+    "content": "I have c2c 4GB variant I updated it via fota to kitkat 4.4.2. So I flashed it using Wiko ROM that (u) gave to <strong>Vaisak</strong> and updated to Wiko's KitKat 4.4.2\nThen I tried to flash it using sptool and firmware during flashing it shows Sp flash tool error 8038\n[Android download] PMT is ready and layout has been changed ...\nCan I upgrade my phone please give me the steps..."
+  },
+  {
+    "id": "183",
+    "parent": "182",
+    "author": "Swapnil Jha",
+    "date": "2016-02-19 20:31:30",
+    "content": "<strong>Rakesh</strong>, try using 'Download' instead of 'Firmware upgrade'."
+  },
+  {
+    "id": "184",
+    "parent": "0",
+    "author": "Satish Kumar",
+    "date": "2016-02-21 17:58:42",
+    "content": "Can this work on my max a120 C2C 4GB? and can this ROM increase the internal storage for apps."
+  },
+  {
+    "id": "185",
+    "parent": "0",
+    "author": "Boss007",
+    "date": "2016-03-05 13:30:26",
+    "content": "Can I flash Wiko base in MMX a120 with stock KitKat it?"
+  },
+  {
+    "id": "186",
+    "parent": "185",
+    "author": "Siddhant Baranwal",
+    "date": "2016-03-08 14:17:10",
+    "content": "Yes."
+  },
+  {
+    "id": "187",
+    "parent": "184",
+    "author": "Siddhant Baranwal",
+    "date": "2016-03-08 14:21:20",
+    "content": "Yes <strong>Satish</strong>."
+  },
+  {
+    "id": "188",
+    "parent": "0",
+    "author": "Nicole",
+    "date": "2016-03-25 00:47:40",
+    "content": "Hi, I have just rooted my MC2C A120, with 1GB RAM, and internal storage of approx 5GB can I go for this?"
+  },
+  {
+    "id": "189",
+    "parent": "188",
+    "author": "Swapnil Jha",
+    "date": "2016-03-25 13:12:11",
+    "content": "Yes <strong>Nicole</strong>, you can surely do it."
+  },
+  {
+    "id": "190",
+    "parent": "0",
+    "author": "Amresh",
+    "date": "2016-04-28 12:52:47",
+    "content": "Sir i have canvas 2 colors A120 8gb rom version running on stock KitKat. How can i upgrade it to wiko base KitKat?? I m confused in flashing. I have to flash whole rom like preloader, ebr1, Android, cache, or just recovery?? All boxes should be checked or only recovery?"
+  },
+  {
+    "id": "191",
+    "parent": "190",
+    "author": "Swapnil Jha",
+    "date": "2016-05-01 18:25:55",
+    "content": "Yes <strong>Amresh</strong>, just make sure that the preloader is unchecked, just in case something goes wrong."
+  },
+  {
+    "id": "192",
+    "parent": "0",
+    "author": "प्रभात",
+    "date": "2016-06-15 11:17:49",
+    "content": "will it works on canvas 2 a110"
+  },
+  {
+    "id": "193",
+    "parent": "192",
+    "author": "Swapnil Jha",
+    "date": "2016-06-16 20:27:58",
+    "content": "You can surely give it a try <strong>Prabhat</strong>. We haven't tried on that model yet."
+  },
+  {
+    "id": "194",
+    "parent": "0",
+    "author": "Abdukv",
+    "date": "2016-06-30 01:43:29",
+    "content": "Sir my phone mmx a120 normal version software i want change to lolipop what can i do sir?"
+  },
+  {
+    "id": "195",
+    "parent": "0",
+    "author": "Raj",
+    "date": "2016-07-10 02:17:22",
+    "content": "Hi I am using micromax canvas 2 colours a120 (4GB), have tried upgrading my phone with S5501BP_MP_MMX_IN_06, which gives error \"BROM ERROR : S_DL_READ_PT_FAIL (0x13CD1)\"\nI guess it is because this flash is of (8GB) phone, my phone is died. I screwed my phone. Please help with any flash download link, which will be compatible with my phone.\nVIKRAM - do you got any solution?"
+  },
+  {
+    "id": "196",
+    "parent": "0",
+    "author": "Manish",
+    "date": "2016-08-15 16:37:43",
+    "content": "Hi guys I really appreciate your work - Thanks For You Efforts\nAm running into some issues while following the above steps on DEVICE - MICROMAX CANVAS 2 (A110), PC - Windows 10\n•Open the Device manager in PC. Go to Start &gt; Run &gt; devmgmt.msc.\n•Connect your phone to PC through data cable.\n•In the device manager, a yellow line would have appeared after the phone got connected. MT65xx preloader.\n•Right click on it and click Update. Browse to Desktop and click Next. A red box will appear, press Continue Installation\n-After following the above steps my device does not appear in Device Manager with a yellow line as mentioned, hence am not able to update.\nSo I skipped the above steps and went on with the SP Flash Tool\n•Open SP Flash tool folder and click on Flash_Tool.exe.\n•Browse to the scatter File MT65xx_Android_scatter_emmc_PMT.txt in the folder of that ROM, which was earlier placed on Desktop.SP Tools 2\n•Make sure all the boxes are checked. Then press the Download button.\n•Then re – connect your mobile phone. You will notice some progress  on the CPU screen in the form of blue and red colour.\n-After following the above steps I get an error message\nChip type not match!\nTarget chip type is MT6577\nload scatter chip type is MT6582\nSo I skipped the above steps and went on with the CM12 installation via CWM Recovery and here the installation gets aborted.\nI really want to get CM12/13 on my Canvas 2 (A110)\nPlease if you could solve the above issues and help me install CM12/13 Android L/M on my device."
+  },
+  {
+    "id": "197",
+    "parent": "196",
+    "author": "Swapnil Jha",
+    "date": "2016-08-24 23:24:45",
+    "content": "Hello <strong>Manish</strong>, try a friend's laptop or some other device running Windows 7 or 8, working on Win 10 might be the problem, if the problem persists, we are here for help."
+  },
+  {
+    "id": "198",
+    "parent": "194",
+    "author": "Swapnil Jha",
+    "date": "2016-08-24 23:25:51",
+    "content": "Please follow the steps in this article, you will get Android Lollipop."
+  },
+  {
+    "id": "199",
+    "parent": "197",
+    "author": "Manish",
+    "date": "2016-08-24 23:34:08",
+    "content": "Hi Swapnil, but will it fix the scatter mismatch problem.\nChip type mismatch!\nTarget chip type is MT6577\nload scatter chip type is MT6582\nI believe -\nCanvas 2 Colors stands for MT6582\n&amp;\nCanvas 2 A110 stands for MT6577"
+  },
+  {
+    "id": "200",
+    "parent": "199",
+    "author": "Swapnil Jha",
+    "date": "2016-08-24 23:52:20",
+    "content": "Give it a try,\nEverything might work out fine as the step says \"Browse to the scatter File MT65xx_Android_scatter_emmc_PMT.txt in the folder of that ROM, which was earlier placed on Desktop.\"\nElse, you will need to find a Rainbow SP Flashable ROM for your device separately, apart from that all steps would be same. If you can't find the ROM on your own, contact <a href=\"http://techglobule.com/3\" target=\"_blank\" rel=\"noopener noreferrer\">Siddhant-kun</a>."
+  },
+  {
+    "id": "201",
+    "parent": "0",
+    "author": "om",
+    "date": "2016-09-12 15:15:45",
+    "content": "my phone is canvas 2 colours running on jellybean... will it run????"
+  },
+  {
+    "id": "202",
+    "parent": "0",
+    "author": "rocky",
+    "date": "2016-09-26 20:26:14",
+    "content": "Can i update without installing rom?"
+  },
+  {
+    "id": "203",
+    "parent": "0",
+    "author": "satwik",
+    "date": "2016-09-27 12:28:35",
+    "content": "Everything is done but when I go to recovery mode and try to install update from sd card and then select the CM 12 file it says installation aborted did I need to root my phone and install custom recovery to install lollipop"
+  },
+  {
+    "id": "204",
+    "parent": "201",
+    "author": "Swapnil Jha",
+    "date": "2016-09-30 20:03:28",
+    "content": "Yeah <strong>Om</strong>, it should work just fine."
+  },
+  {
+    "id": "205",
+    "parent": "202",
+    "author": "Swapnil Jha",
+    "date": "2016-09-30 20:10:26",
+    "content": "<strong>Rocky</strong>,\nI don't think your phone's manufacturer are rolling out Lollipop for your device, so no you can't update to Android Lollipop without installing a ROM."
+  },
+  {
+    "id": "206",
+    "parent": "203",
+    "author": "Swapnil Jha",
+    "date": "2016-10-19 11:20:14",
+    "content": "Yeah, if you would follow the prescribed procedure, it will root your phone as well..."
+  },
+  {
+    "id": "207",
+    "parent": "0",
+    "author": "Yadav",
+    "date": "2017-01-18 15:08:43",
+    "content": "I have not get  MT65xx preloader. after phone had got connected pc"
+  },
+  {
+    "id": "208",
+    "parent": "207",
+    "author": "Swapnil Jha",
+    "date": "2017-01-18 21:20:53",
+    "content": "You need Vcom Drivers, follow these steps.\nDownload <a href=\"http://www.devfiles.co/download/0InO9P5m/MT65xx_USB_VCOM_DRIVERS.zip\" target=\"_blank\" rel=\"nofollow noopener noreferrer ugc\">Vcom Drivers</a>. (1MB)\nExtract them to a specified folder.\nRight click <strong>My Computer</strong> > Manage > Add Device.\nHave disk locate the drives and Select <strong>Ok</strong>.\nThen follow the procedure as given in the post."
+  },
+  {
+    "id": "209",
+    "parent": "0",
+    "author": "gsmrk",
+    "date": "2017-04-29 09:08:20",
+    "content": "Nice information share thanks for flash tool."
+  },
+  {
+    "id": "210",
+    "parent": "209",
+    "author": "Swapnil Jha",
+    "date": "2017-05-04 19:46:37",
+    "content": "You are welcome, <strong>GSMRK</strong>."
+  },
+  {
+    "id": "211",
+    "parent": "0",
+    "author": "krishna mishra",
+    "date": "2017-05-21 12:25:59",
+    "content": "Pls help my phone is micromax canvas2 colors with veriant 4.4.4. kit kat i want to update my phone with lolipop pls suggest me how is it possible from which files."
+  },
+  {
+    "id": "212",
+    "parent": "211",
+    "author": "Swapnil Jha",
+    "date": "2017-06-30 19:57:11",
+    "content": "Try following the steps given in the above post."
+  }
+]

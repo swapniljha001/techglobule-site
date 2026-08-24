@@ -1,0 +1,56 @@
+baseURL: "https://sitora.me/"
+title: "Tech Globule"
+theme: "hugo-theme-cleanwhite"
+locale: "en-US"
+paginate: 10
+enableRobotsTXT: true
+taxonomies:
+  category: category
+  tag: tag
+params:
+  header_image: "img/home-bg-jeep.jpg"
+  SEOTitle: "Tech Globule | Gateway to Technology"
+  description: "Gateway to Technology"
+  keyword: "technology, Android, iOS, Windows, Linux"
+  slogan: "Gateway to Technology"
+  sidebar_about_description: "Technology news, guides, apps, and tutorials."
+  featured_tags: true
+  featured_condition_size: 1
+  last_posts: true
+  custom_css: ["css/historical-comments.css"]
+  friends: false
+  bookmarks: false
+  about_me: false
+  social:
+    rss: true
+menu:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 1
+    - name: "Apple iOS"
+      url: "/category/apple-ios/"
+      weight: 2
+    - name: "Android OS"
+      url: "/category/android/"
+      weight: 3
+    - name: "Windows OS"
+      url: "/category/windows/"
+      weight: 4
+    - name: "Others"
+      url: "/category/others/"
+      weight: 5
+    - name: "About Us"
+      url: "/about-us/"
+      weight: 6
+    - name: "Help Us"
+      url: "/help-us/"
+      weight: 7
+    - name: "Contact Us"
+      url: "/contact-us/"
+      weight: 8
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+

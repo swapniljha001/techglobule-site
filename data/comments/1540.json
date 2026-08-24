@@ -1,0 +1,135 @@
+[
+  {
+    "id": "273",
+    "parent": "0",
+    "author": "Rishabh",
+    "date": "2016-01-26 02:58:38",
+    "content": "Thanks it helped me a lot."
+  },
+  {
+    "id": "274",
+    "parent": "273",
+    "author": "Swapnil Jha",
+    "date": "2016-01-26 17:01:05",
+    "content": "Your welcome <strong>Rishabh</strong>."
+  },
+  {
+    "id": "275",
+    "parent": "0",
+    "author": "Kstarrk",
+    "date": "2016-02-18 22:46:55",
+    "content": "NO SIM DETECTED.. any thoughts on a fix?"
+  },
+  {
+    "id": "276",
+    "parent": "275",
+    "author": "Swapnil Jha",
+    "date": "2016-02-19 20:48:09",
+    "content": "<strong>Kstarrk</strong>, try flashing <strong>modem.bin</strong> via recovery. Download the file from this <a href=\"https://basketbuild.com/filedl/devs?dev=AL_IRAQI&amp;dl=AL_IRAQI/S4%20i9500%20Modems%20And%20Bootloaders/I9500-XXUHOD4-MODEM_CWM.zip\" target=\"_blank\" rel=\"nofollow noopener noreferrer ugc\">link</a>. Flash it normally, <strong>no wipe</strong> needed."
+  },
+  {
+    "id": "277",
+    "parent": "0",
+    "author": "Ricky Yo",
+    "date": "2016-02-21 15:42:28",
+    "content": "Although you download the google camera, the camera still fails"
+  },
+  {
+    "id": "278",
+    "parent": "277",
+    "author": "Swapnil Jha",
+    "date": "2016-02-26 15:30:07",
+    "content": "Try re-installing MarshMallow, might solve your problem. The developer hasn't yet managed to rectify the camera issue."
+  },
+  {
+    "id": "279",
+    "parent": "0",
+    "author": "Ahmad Khan",
+    "date": "2016-02-26 21:10:16",
+    "content": "When will sort this camera issue? Any idea please temme?"
+  },
+  {
+    "id": "280",
+    "parent": "279",
+    "author": "Swapnil Jha",
+    "date": "2016-02-27 22:33:46",
+    "content": "<strong>Ahmad</strong>, We aren't the devs behind the ROM, we just shared the method. We can't rectify it :("
+  },
+  {
+    "id": "281",
+    "parent": "279",
+    "author": "Swapnil Jha",
+    "date": "2016-03-06 12:43:01",
+    "content": "Camera is now working in this <a href=\"https://www.androidfilehost.com/?fid=24438995911969919\" target=\"_blank\" rel=\"nofollow noopener noreferrer ugc\">build</a>."
+  },
+  {
+    "id": "282",
+    "parent": "281",
+    "author": "Bhavish",
+    "date": "2016-03-13 01:09:08",
+    "content": "Camera not working!!!!!!!!!"
+  },
+  {
+    "id": "283",
+    "parent": "0",
+    "author": "Moka",
+    "date": "2016-03-15 18:16:49",
+    "content": "Good Job downloading :)"
+  },
+  {
+    "id": "284",
+    "parent": "283",
+    "author": "Swapnil Jha",
+    "date": "2016-03-16 12:38:45",
+    "content": "Thanks <strong>Moka</strong>"
+  },
+  {
+    "id": "285",
+    "parent": "282",
+    "author": "Swapnil Jha",
+    "date": "2016-03-17 06:35:31",
+    "content": "It is working in the new build <strong>Bhavish</strong>, Try the method again. I've updated the download link."
+  },
+  {
+    "id": "286",
+    "parent": "0",
+    "author": "Rigs",
+    "date": "2016-03-20 22:47:38",
+    "content": "E:failed to verify whole-file signature\nE:signature....\nneed help"
+  },
+  {
+    "id": "287",
+    "parent": "286",
+    "author": "Swapnil Jha",
+    "date": "2016-03-21 21:53:30",
+    "content": "<strong>Rigs</strong>, first download the ROM again. Clean install a new ROM in PhilZ Or if using TWRP, then Wipe Cache, Dalvik, System, Data, Preload. Also check if you are using a 11 GB pit, first convert to 9 GB."
+  },
+  {
+    "id": "288",
+    "parent": "0",
+    "author": "Rigs",
+    "date": "2016-03-23 02:12:47",
+    "content": "My phone has no service. IMEI code is still original."
+  },
+  {
+    "id": "289",
+    "parent": "0",
+    "author": "Rigs",
+    "date": "2016-03-23 02:21:17",
+    "content": "No this phone doesn't mean anything to me."
+  },
+  {
+    "id": "290",
+    "parent": "288",
+    "author": "Rigs",
+    "date": "2016-03-23 02:25:30",
+    "content": "Phone does detect the sim. But there's no service at all. No signal bars at all."
+  },
+  {
+    "id": "291",
+    "parent": "290",
+    "author": "Swapnil Jha",
+    "date": "2016-03-25 13:10:35",
+    "content": "The way you are describing, it seems a hardware problem to me. Try that SIM in any other device, and check if it's working correctly."
+  }
+]

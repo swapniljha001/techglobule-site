@@ -1,0 +1,30 @@
+[
+  {
+    "id": "295",
+    "parent": "0",
+    "author": "Rahul kumar",
+    "date": "2016-11-30 20:50:47",
+    "content": "Camera is good not that bad for the price range it comes in."
+  },
+  {
+    "id": "296",
+    "parent": "295",
+    "author": "Swapnil Jha",
+    "date": "2016-12-10 18:01:09",
+    "content": "Agreed."
+  },
+  {
+    "id": "297",
+    "parent": "0",
+    "author": "Anshul ahuja",
+    "date": "2018-08-09 16:42:42",
+    "content": "Great Phone, especially features\nthanks for giving us this information"
+  },
+  {
+    "id": "298",
+    "parent": "297",
+    "author": "Swapnil Jha",
+    "date": "2019-02-19 19:20:52",
+    "content": "Glad, you liked it."
+  }
+]

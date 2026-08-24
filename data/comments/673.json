@@ -1,0 +1,23 @@
+[
+  {
+    "id": "120",
+    "parent": "0",
+    "author": "Vyom",
+    "date": "2015-06-12 21:14:47",
+    "content": "Moto X belongs to first category. Also, I like to reboot to recovery using adb command from PC. But that only works if you have a rooted phone."
+  },
+  {
+    "id": "121",
+    "parent": "120",
+    "author": "Swapnil Jha",
+    "date": "2015-06-12 23:12:10",
+    "content": "Thanx for feedback <strong>Vyom</strong>. I didn't mentioned about adb command because I was addressing those users who have never visited Recovery Mode before. I believe using a PC to enter Recovery Mode will be a bit advanced for them."
+  },
+  {
+    "id": "122",
+    "parent": "0",
+    "author": "How to Reset a device: Advanced User &#8211; TechGlobule",
+    "date": "2015-06-14 13:31:43",
+    "content": "[&#8230;] enter into the recovery using appropriate method. You may find a lot of options in [&#8230;]"
+  }
+]

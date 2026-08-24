@@ -1,0 +1,16 @@
+[
+  {
+    "id": "230",
+    "parent": "0",
+    "author": "AJITH KUMAR MOHANAN",
+    "date": "2017-04-30 22:46:36",
+    "content": "I am using Android phone Lava with Android 4.4.2 version. Last year I have installed Google Handwriting Input very 1.6.1 and was using Malayalam handwriting without any problems. Last week I have upgraded the software to very 1.7.1. Now the Malayalam handwriting language is not getting downloaded. It says\"error in downloading language\".\nI have done troubleshooting as per Google support page.\nMy question how I can get the Malayalam handwriting APK file direct download?"
+  },
+  {
+    "id": "231",
+    "parent": "230",
+    "author": "Swapnil Jha",
+    "date": "2017-05-04 19:42:56",
+    "content": "You can't specifically download Malayalam Handwriting apk. You can try downloading <a href=\"http://www.apkmirror.com/apk/google-inc/google-handwriting-input/google-handwriting-input-1-6-1-release/google-handwriting-input-1-6-1-android-apk-download/download/\" target=\"_blank\" rel=\"nofollow noopener noreferrer ugc\">Google Handwriting Input v1.6.1</a> from the internet or wait for future updates so that your problem gets fixed."
+  }
+]

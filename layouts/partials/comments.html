@@ -1,0 +1,14 @@
+{{ $key := printf "%v" .Params.wp_id }}
+{{ with index .Site.Data.comments $key }}
+<section class="historical-comments">
+  <h2>Comments</h2>
+  <p><em>Comments imported from the original Tech Globule site. New comments are not enabled.</em></p>
+  {{ range . }}
+  <article class="historical-comment" data-parent="{{ .parent }}">
+    <h4>{{ .author | default "Anonymous" }}</h4>
+    <time>{{ .date }}</time>
+    <div>{{ .content | safeHTML }}</div>
+  </article>
+  {{ end }}
+</section>
+{{ end }}
